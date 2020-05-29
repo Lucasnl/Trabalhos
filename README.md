@@ -2,7 +2,7 @@
 <b>Alguns Trabalhos Realizados - Todos Utilizando Wordpress </b>
 
 
-<h1><b><a href="https://windowesport.com.br">Site do Window Esports - Online</a> </b> </h1>
+<h1><b><a href="https://windowesports.com.br">Site do Window Esports - Online</a> </b> </h1>
 <img src="https://i.imgur.com/bay3X2F.png" />
 
 <h1><b>Loja virtual para a Brasil Gaming House - Offline </b> </h1>
